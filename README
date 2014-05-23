@@ -1,0 +1,9 @@
+This repository is a collection of my programs about crytography. The programs
+are mainly written in Python and Java.
+
+I have implemented the following crytosystems or functions:
+
+1) Caesar cipher
+2) XOR cipher
+3) Enigma Machine (A simulator of cipher machine created by German in WWII)
+4) Simple RSA crytosystem
